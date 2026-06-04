@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Kheyali Bera 👋
 
-<!--
-**kheyalibera/kheyalibera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Data Engineer / ETL Developer with experience and interest in SQL, Python, ETL development, data warehousing, business intelligence, and cloud-based data solutions.
 
-Here are some ideas to get you started:
+## 🔧 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming: Python, SQL
+- ETL Tools: SSIS, Azure Data Factory
+- Databases: SQL Server, MySQL
+- Cloud & Data: Azure SQL, Azure Synapse, ADLS Gen2, Microsoft Fabric
+- BI & Reporting: Power BI, Excel
+- Tools: Git, GitHub, VS Code
+
+## 🚀 Featured Projects
+
+### Python ETL Pipeline
+Built a basic ETL pipeline to extract raw data, clean it using Python, transform it, and export structured output.
+
+### SQL Data Warehouse Project
+Designed fact and dimension tables and wrote SQL queries for reporting and analysis.
+
+### Power BI Dashboard
+Created an interactive dashboard to visualize business KPIs and generate insights.
+
+## 📫 Connect with me
+
+- LinkedIn: paste-your-link-here
+- Email: paste-your-email-here
