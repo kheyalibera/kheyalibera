@@ -24,5 +24,5 @@ Created an interactive dashboard to visualize business KPIs and generate insight
 
 ## 📫 Connect with me
 
-- LinkedIn: paste-your-link-here
-- Email: paste-your-email-here
+- LinkedIn: linkedin.com/in/kheyalibera
+- Email: kheyaliberaece2@gmail.com
