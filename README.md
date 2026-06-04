@@ -7,7 +7,7 @@ I have hands-on expertise in Ab Initio, Oracle PL/SQL, SQL, Unix Shell Scripting
 ## 💼 Professional Summary
 
 * 7 years of experience in ETL development and data pipeline engineering
-* Strong expertise in Ab Initio GDE, Co>Operating System, EME, Conduct>It, Multiload, Fastload, and dynamic lookups
+* Strong expertise in Ab Initio GDE, Co-Operating System, EME, Conduct-It, Multiload, Fastload, and dynamic lookups
 * Experienced in Oracle PL/SQL, SQL Server, Teradata, Unix Shell Scripting, JCL, and CTL files
 * Hands-on experience with Autosys job scheduling, workflow orchestration, and production monitoring
 * Worked in banking and telecom domains with large-scale data processing and reporting systems
